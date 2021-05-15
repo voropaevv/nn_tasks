@@ -1,4 +1,6 @@
 # Обнаружение улыбки на изображениях лиц
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/nn_tasks/blob/master/smile_or_not/smile_or_not.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 Построение baseline NN модели на основе Keras, которая решает задачу идентификации улыбки по фотографии человека.
 ## Описание
